@@ -16,6 +16,7 @@
 
   * checkout :
      > Permet de se déplacer dans les branches ou commits
+     >  https://git-scm.com/docs/git-checkout
   
   ![GitHub Logo](/Images/logo_git.png)
-  
+
