@@ -2,21 +2,20 @@
 
    ## Quelques commandes de Git
 
-  * add :
+  * ``` git add ```:
      > Permet d'indéxer un fichier avant de le commit
 
-  * log :
+  * ``` git log ```:
      > Permet d'avoir un suivi des commits
-  
-  * diff :
+
+  * ``` git diff ```:
      > Permet d'afficher les changements dans un fichier
 
-  * branch :
-     > Permet de créer la branche 
+  * ``` git branch ```:
+     > Permet de créer la branche
 
-  * checkout :
+  * ``` git checkout ```:
      > Permet de se déplacer dans les branches ou commits
      >  https://git-scm.com/docs/git-checkout
-  
-  ![GitHub Logo](/Images/logo_git.png)
 
+  ![GitHub Logo](/Images/logo_git.png)
